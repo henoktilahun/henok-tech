@@ -8,7 +8,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Henok Techn',
+  title: 'Henok Tech',
   tagline: 'Tech is Hard',
   favicon: 'img/favicon.ico',
 
